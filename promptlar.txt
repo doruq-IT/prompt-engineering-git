@@ -1,0 +1,160 @@
+prompt 1 (navbar-html)
+
+1) Navigation Bar Structure and Logo:
+ "Design an image of a modern and clean website navigation bar positioned at the top. The navigation bar should be in a light color scheme,  featuring a logo on the left side that reads 'DoruqIT' next to a placeholder for a graphical logo. The logo should appear sophisticated, hinting  at the company's focus on technology and innovation."
+2) Menu Items:
+ "Create an image that showcases four menu items on a website's navigation bar. The items should be 'Home', 'Services', 'Models', and 'Contact',  displayed in a clear, legible font. The menu should have a minimalist design, emphasizing readability and ease of navigation for users. The  background should be light, ensuring the text stands out."
+
+prompt 1 (navbar-css)
+
+1) Navigation Bar Background and General Style:
+ "Generate an image showcasing the top section of a modern website. The navigation bar should have a semi-transparent white background, creating a  subtle overlay effect over the website's content. Incorporate a light drop shadow for depth, adding a refined and elegant touch to the design. The  overall aesthetic should convey a sense of sophistication and modernity, suitable for a professional and cutting-edge tech company."
+2) Font and Typography:
+ "Illustrate the HeptaSlab font's application in a website's navigation bar, emphasizing its bold and medium weights. The font should appear clean  and easily readable, set against a light background to ensure legibility. Highlight the font's unique characteristics, portraying a blend of  modern and classic typography that enhances the website's professional appearance."
+3) Logo and Navigation Links:
+ "Create an image depicting a sleek logo labeled 'DoruqIT' on the left side of a navigation bar, styled with a bold and elegant font. The  navigation links - 'Home', 'Services', 'Models', and 'Contact' - should be displayed in a medium font weight with clear spacing, ensuring ease of  navigation. The active or hovered link should change to a vibrant red color, drawing attention and guiding the user's interaction."
+4) Responsive and Hover Effects:
+ "Visualize a responsive navigation bar adapting to different screen sizes, maintaining its clarity and functionality. Include a depiction of a  hover effect over navigation links, where the color transitions smoothly to red, indicating an interactive and user-friendly design element. The  image should capture the navigation bar's adaptability and interactive features, showcasing a seamless user experience."
+
+prompt 2 (home section-html)
+
+1) "Design an image showing the 'Home' section of a cutting-edge website dedicated to AI in healthcare. The section should prominently feature a  bold title 'AI REVOLUTIONIZING THE FUTURE OF HEALTHCARE' at the center, with a subtitle 'UNITING EFFORTS TO TRANSFORM THE VAST WORLD OF  HEALTHCARE' just below it, both set against a clean, modern background that suggests innovation and advancement in healthcare technology. Include  a visually appealing button labeled 'OUR EXPERTISE', inviting users to learn more about the services offered. The overall design should convey a  sense of forward-thinking and the transformative impact of AI on healthcare."
+
+prompt 2 (home section-css)
+
+1) Background and Layout:
+ Image set against a background that symbolizes innovation in healthcare, with the background image covering the entire section, positioned  centrally.
+ Content centrally aligned with the title and subtitle prominently displayed in the middle of the section.
+2) Titles and Text:
+ Bold title "AI REVOLUTIONIZING THE FUTURE OF HEALTHCARE" in large font size, colored black for stark contrast against the background.
+ Subtitle "UNITING EFFORTS TO TRANSFORM THE VAST WORLD OF HEALTHCARE" in a slightly smaller font size than the title, also in black to maintain  readability.
+3) Button Design:
+ A noticeable button labeled "OUR EXPERTISE" with a deep green (#4CAF50) background.
+ Text on the button in white for clear visibility.
+ Button styled with rounded corners, padding for comfort, and no border for a modern look.
+ The button changes to a white background with green text on hover, adding an interactive element to the design.
+4) Overall Feel:
+ The entire composition should convey a professional and forward-thinking vibe, emphasizing the transformative impact of AI on healthcare.
+ The design should balance innovation with accessibility, inviting users to explore further with the "OUR EXPERTISE" button.
+
+prompt 3 (expertise-html)
+
+1) Section Overview:
+"Design an image showcasing the 'Expertise' section of a website, featuring a central heading 'Our Expertise' in a large, attention-grabbing font. The section should convey a sense of professionalism and innovation in healthcare services powered by AI."
+2) Service Icons and Descriptions:
+"Illustrate three distinct services in separate columns. Each service should be represented by an icon: a globe for 'Enhanced Reach', a cog for 'Proactive Detection', and a dollar sign for 'Cost Efficiency'. Below each icon, include a heading and a short description explaining how AI is used to improve healthcare in these areas."
+3) Additional Services:
+"Add three more services following the same layout: a heartbeat icon for 'Precision at Its Best', showcasing the accuracy of AI in medical predictions; a medkit for 'Rapid Results', highlighting the speed of AI-powered diagnostics; and a check circle for 'Error-Free Healthcare', emphasizing the reduction of errors through AI. Each service should have a clear heading and a concise description beneath the icon."
+4) Design and Animation:
+"Ensure that each service icon has a subtle animation (like 'fadeIn') to engage visitors, enhancing the interactivity of the webpage. The overall design should be clean, with ample white space around each service to maintain a clutter-free and easy-to-navigate layout."
+
+prompt 3 (expertise-css)
+
+1) Section Background and Layout:
+"Showcase the 'Expertise' section with a soft, light grey background, ensuring a soothing visual experience. The section should be spaciously padded, providing a generous layout for the content to breathe, enhancing readability and focus on the services offered."
+2) Icons and Animation:
+"Visualize vibrant icons aligned to the left of each service description, each with a bold size of 40px, ensuring they are striking and easily recognizable. The icons should be in a dark color for contrast, with a slight animation effect like 'fadeIn' to draw attention to each service."
+3) Service Headings and Descriptions:
+"Illustrate each service with a heading that includes a stylish underline effect, adding a touch of elegance and focus. The text should be concise and clear, explaining the benefits of AI in healthcare, placed next to the respective icons for a cohesive look."
+4) Overall Design Elements:
+"Ensure each service item has adequate margin spacing for a clean separation, making each service distinct and easy to navigate. The overall design should maintain a professional and modern aesthetic, reflective of the innovative AI solutions in healthcare."
+
+prompt 4 (portfolio-html)
+
+1) Section Introduction:
+Design an image that features the 'Portfolio' section of a healthcare AI website. Include a prominent heading 'Our prediction models' with a brief explanation beneath, encouraging users to interact with the portfolios.
+2) Model Information and Interaction:
+Illustrate several predictive model portfolios, each represented by an image related to a health condition (like liver, pneumonia, kidney, diabetes, stroke, and heart health). Each portfolio should have a hover-over effect revealing the model's name and a brief description.
+3) Portfolio Thumbnails and Overlay:
+Show thumbnails for each health condition, with a consistent and professional design. On hover, an overlay should appear with a magnifying glass icon (search function), the model's title (e.g., "Liver Health Analysis"), and a short description.
+4) Navigation and Exploration Encouragement:
+Include a note or a call-to-action, suggesting that users can navigate to prediction pages for each health condition by clicking on the search icons. Also, encourage users to reach out via the contact section for more models on other conditions.
+5) Overall Design and Layout:
+The portfolio section should be neatly organized in rows and columns, with a clean, modern aesthetic. The layout should facilitate easy exploration of the different predictive models available, showcasing the AI's capabilities in healthcare.
+
+prompt 4 (portfolio-css)
+
+1) Portfolio Thumbnails and Hover Effect:
+Display portfolio thumbnails with a sleek, hidden overflow and a relative position for each. Upon hovering, an overlay should emerge with a smooth transition, increasing the opacity to 0.9 and slightly scaling up the image to create a dynamic visual effect.
+2) Overlay Design:
+The overlay should have a dark background (#333) with white text, covering the entire thumbnail. Include a magnifying glass icon (search function) within a white-bordered, circular frame, centered within the overlay. The portfolio title and description should be clearly visible in white font, providing a contrast against the dark overlay.
+3) Text and Icon Styling:
+Portfolio descriptions under the overlays should be concise, with a small font size and tight line spacing to keep the overlay clean and legible. The search icon should be prominently displayed above the title, inviting users to click for more details.
+4) Layout and Responsiveness:
+Portfolios should be arranged in a grid layout, with each box taking up approximately 30% of the container width, allowing for margins. The arrangement should adapt to different screen sizes while maintaining a balanced and aesthetically pleasing layout.
+5) Image Presentation:
+Ensure each portfolio image is fully displayed within its frame, resizing responsively to fill the width of its container while maintaining aspect ratio for visual consistency across the section.
+
+prompt 5 (contact-html)
+
+1) Logo and Introduction:
+Feature the 'Contact' section with the DoruqIT logo prominently displayed on the left side, accompanied by the company name in strong, bold lettering. Include a brief message encouraging visitors to reach out via GitHub or LinkedIn for any inquiries.
+2) Social Media Icons:
+Illustrate GitHub and LinkedIn icons, each sized significantly for easy recognition and interaction. These icons should serve as direct links to the respective profiles, facilitating immediate contact.
+3) Contact Information:
+Show an address block with the heading 'Contact us', featuring an envelope icon followed by an email address. This section should be designed for clear visibility and easy access to the provided contact information.
+4) Contact Form:
+Display a contact form consisting of fields for 'Name-Surname', 'Email', and a larger field for 'Message'. The form should conclude with a 'Send' button, inviting users to submit their inquiries or comments.
+5) Layout and Design:
+Organize the contact information and form within a clean, structured layout, ensuring each element is spaced evenly for a tidy appearance. The overall design should be welcoming and user-friendly, encouraging visitors to engage and connect.
+
+prompt 5 (contact-css)
+
+1) Background and Color Scheme:
+Illustrate the 'Contact' section set against a captivating background image, ensuring it's well-covered and centered. The overall color theme should be dominated by white text for contrast against the background, providing clear visibility of the content.
+2) Headings and Icons:
+Feature the section heading 'Contact us' in bold, large font size to grab attention. Social media icons (GitHub and LinkedIn) should be displayed in a vibrant green (#93ca3a), adding a pop of color and drawing the eye towards these interactive elements.
+3) Contact Form Aesthetics:
+Visualize a contact form with input fields having a soft background color (#f2f2f2) to distinguish them from the rest of the section. The fields should be rounded for a modern look, with shadows adding depth to the design. The 'Send' button, initially in a darker shade, should transform to green (#93ca3a) on hover, creating an inviting call-to-action.
+4) Input Fields and Placeholder Text:
+Show input fields with ample height for easy interaction, and placeholder text in a lighter color (#666) for user guidance without overwhelming the design. The overall layout should balance functionality with aesthetic appeal, encouraging user engagement.
+5) Layout and Spacing:
+The layout should be clean and orderly, with each component given enough space to stand out on its own. The contact information, social media links, and form should be aligned in a user-friendly manner, promoting a seamless experience for visitors wishing to connect.
+
+prompt 6 (footer-html)
+
+1) Basic Layout:
+Depict the footer at the bottom of a website, contained within a clean, straightforward layout. It should be clearly demarcated from the rest of the page's content, serving as a definitive end to the webpage.
+2) Content and Style:
+The footer should include a copyright notice, dynamically displaying the current year through a script. The text "DoruqIT. All rights reserved." should be part of the copyright statement, indicating ownership and copyright of the website content.
+3) Animation and Visibility:
+Incorporate a subtle 'fadeIn' animation effect to introduce the footer content, adding a touch of elegance to the page load. Ensure the text is legible and contrasts well with the footer's background, making it easily readable by all users.
+4) Overall Design:
+The design should be minimalistic, avoiding clutter and focusing on delivering the essential copyright information clearly. The footer's aesthetic should align with the website's overall theme, providing a cohesive look and feel.
+
+prompt 6 (footer-css)
+
+1) Footer Positioning and Alignment:
+Visualize a footer anchored at the bottom of the webpage, utilizing a 'push down' effect to ensure it always stays at the page's end. The content within the footer, centered for a balanced look, should provide a cohesive conclusion to the page.
+2) Color Scheme and Typography:
+The footer should feature white text on a darker background, offering a stark contrast for readability. Text styling should be bold and succinct, with a font size that's comfortable for reading yet compact, contributing to the footer's unobtrusive design.
+3) Decorative Elements:
+Illustrate a subtle top border in a light shade, adding a refined separation from the main content. Shadows below the footer should create a sense of depth, subtly lifting the footer off the page to draw attention to its content without overwhelming the overall design.
+4) Font and Text Layout:
+Utilize 'Segoe UI', or similar sans-serif fonts, known for their clarity and web-friendly appearance. The footer's text, including the dynamic copyright year and "All rights reserved" notice, should be arranged in a straightforward manner, ensuring the message is conveyed clearly and directly.
+5) Overall Feel:
+The overall design should feel grounded and final, signaling the webpage's conclusion in a manner that's visually appealing yet functional, ensuring users have all necessary information without detracting from the main content.
+
+prompt 7 (js-html)
+
+1) jQuery, Bootstrap, and Other Libraries:
+Includes jQuery for simplified JavaScript coding, Bootstrap for responsive design and components, imagesloaded for handling image load events, wow for reveal animations when scrolling, and smoothscroll for smooth scrolling effects.
+2) Scroll to Services Function:
+Defines a function scrollToServices() that smoothly scrolls to the element with the services ID when invoked, typically used in response to a user action like clicking a button or link.
+3) Active Link Markup:
+Adds an event listener to all elements with the .nav-link class. When a link is clicked, it removes the active class from all .nav-item elements and adds it to the parent of the clicked link, visually indicating the currently active section.
+4) Smooth Scrolling for Navbar Links:
+Applies smooth scrolling behavior to all .nav-link elements. When a navbar link is clicked, it prevents the default jumping behavior and smoothly scrolls to the target section indicated by the link's href attribute.
+5) Dynamic Navbar Transparency:
+Implements a scroll event listener that adds or removes the navbar-transparent class from the navbar based on the page's scroll position. This can change the navbar's style dynamically, such as making it more transparent when the user scrolls down.
+
+prompt 7 (responsive-css)
+
+1) Navbar Layout:
+The .navbar class is set to display its contents (logo and navigation items) in a column, stacking them vertically instead of the default horizontal layout. This change ensures that the navbar remains user-friendly and accessible on smaller screens.
+2) Navigation Items (Nav-Items):
+The .navbar-nav class is adjusted to take up the full width of its container, allowing each navigation link to stretch across the entire screen width. The navigation items are also arranged in a column, stacking them vertically for easier access on touch devices.
+Each .nav-item is given a width of 100% to ensure it spans the full width of the screen, making each item more tap-friendly. Additionally, padding is added to each nav-item for better visual separation and to increase the tap area, improving usability on touchscreens.
+3) Portfolio Items (Iso-Box):
+The .iso-box class, likely used for displaying portfolio items or model images, is adjusted to have a width of 100%, allowing each item to scale according to the screen width. This ensures that the portfolio items are fully visible and not cut off on smaller screens.
+The margin adjustments for .iso-box ensure that there is appropriate spacing above and below each item, without unnecessary spacing on the sides. This keeps the layout tidy and ensures that the focus remains on the content.
