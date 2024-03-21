@@ -18,7 +18,9 @@ prompt 1 (navbar-css)
 
 prompt 2 (home section-html)
 
-1) "Design an image showing the 'Home' section of a cutting-edge website dedicated to AI in healthcare. The section should prominently feature a  bold title 'AI REVOLUTIONIZING THE FUTURE OF HEALTHCARE' at the center, with a subtitle 'UNITING EFFORTS TO TRANSFORM THE VAST WORLD OF  HEALTHCARE' just below it, both set against a clean, modern background that suggests innovation and advancement in healthcare technology. Include  a visually appealing button labeled 'OUR EXPERTISE', inviting users to learn more about the services offered. The overall design should convey a  sense of forward-thinking and the transformative impact of AI on healthcare."
+1) "Design an image showing the 'Home' section of a cutting-edge website dedicated to AI in healthcare. 
+The section should prominently feature a  bold title 'AI REVOLUTIONIZING THE FUTURE OF HEALTHCARE' at the center, with a subtitle 'UNITING EFFORTS TO TRANSFORM THE VAST WORLD OF  HEALTHCARE' just below it, both set against a clean, modern background that suggests innovation and advancement in healthcare technology. 
+Include  a visually appealing button labeled 'OUR EXPERTISE', inviting users to learn more about the services offered. The overall design should convey a  sense of forward-thinking and the transformative impact of AI on healthcare."
 
 prompt 2 (home section-css)
 
